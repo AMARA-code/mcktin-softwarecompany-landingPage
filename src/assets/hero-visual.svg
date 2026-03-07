@@ -1,0 +1,47 @@
+<svg width="560" height="360" viewBox="0 0 560 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="hv-bg" x1="0" y1="0" x2="560" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617" />
+      <stop offset="1" stop-color="#020617" />
+    </linearGradient>
+    <linearGradient id="hv-line" x1="40" y1="60" x2="520" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8" />
+      <stop offset="0.5" stop-color="#4F46E5" />
+      <stop offset="1" stop-color="#22C55E" />
+    </linearGradient>
+    <radialGradient id="hv-pulse" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(380 160) rotate(90) scale(80 120)">
+      <stop stop-color="#22C55E" stop-opacity="0.5" />
+      <stop offset="1" stop-color="#22C55E" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <rect width="560" height="360" rx="32" fill="url(#hv-bg)" />
+  <rect x="32" y="40" width="496" height="280" rx="20" fill="#020617" stroke="#1E293B" />
+  <rect x="48" y="60" width="60" height="10" rx="5" fill="#1E293B" />
+  <rect x="116" y="60" width="40" height="10" rx="5" fill="#1E293B" />
+  <rect x="48" y="88" width="80" height="10" rx="5" fill="#1F2937" />
+  <rect x="48" y="108" width="60" height="10" rx="5" fill="#1F2937" />
+  <rect x="48" y="128" width="70" height="10" rx="5" fill="#1F2937" />
+  <circle cx="84" cy="212" r="34" fill="#0B1120" stroke="#1D4ED8" />
+  <path d="M64 214C68 202 75 192 84 192C93 192 100 202 104 214" stroke="#60A5FA" stroke-width="2" stroke-linecap="round" />
+  <path d="M70 198H98" stroke="#1D4ED8" stroke-width="1.5" stroke-linecap="round" />
+  <rect x="144" y="96" width="352" height="4" rx="2" fill="#0B1120" />
+  <rect x="144" y="96" width="124" height="4" rx="2" fill="#4F46E5" />
+  <rect x="144" y="120" width="104" height="12" rx="6" fill="#0B1120" />
+  <rect x="260" y="120" width="84" height="12" rx="6" fill="#0B1120" />
+  <rect x="360" y="120" width="92" height="12" rx="6" fill="#0B1120" />
+  <rect x="144" y="144" width="76" height="8" rx="4" fill="#1F2937" />
+  <rect x="232" y="144" width="60" height="8" rx="4" fill="#1F2937" />
+  <rect x="308" y="144" width="52" height="8" rx="4" fill="#1F2937" />
+  <rect x="372" y="144" width="72" height="8" rx="4" fill="#1F2937" />
+  <path d="M152 260C192 228 226 214 260 214C294 214 328 236 360 244C392 252 426 252 472 236" stroke="#1F2937" stroke-width="2" stroke-linecap="round" />
+  <path d="M152 252C192 220 226 206 260 206C294 206 328 228 360 236C392 244 426 244 472 228" stroke="url(#hv-line)" stroke-width="3" stroke-linecap="round" />
+  <circle cx="260" cy="206" r="5" fill="#22C55E" />
+  <circle cx="360" cy="236" r="5" fill="#38BDF8" />
+  <circle cx="472" cy="228" r="5" fill="#FACC15" />
+  <circle cx="380" cy="170" r="80" fill="url(#hv-pulse)" />
+  <rect x="320" y="176" width="116" height="52" rx="12" fill="#020617" stroke="#1F2937" />
+  <rect x="336" y="192" width="52" height="8" rx="4" fill="#1F2937" />
+  <rect x="336" y="208" width="36" height="8" rx="4" fill="#1F2937" />
+  <rect x="396" y="192" width="28" height="20" rx="6" fill="#22C55E" />
+</svg>
+
