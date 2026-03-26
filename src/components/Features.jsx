@@ -12,7 +12,8 @@ function Features() {
         <Col lg={6}>
           <h2 className="section-heading mb-3">A platform engineered for modern product teams.</h2>
           <p className="section-subtitle mb-4">
-            From ideation to launch, our platform gives you observability, rollout controls, and a flexible design
+            From ideation to launch, our platform give
+             you observability, rollout controls, and a flexible design
             system, so your team can ship confidently every week.
           </p>
           <ListGroup variant="flush" className="glass-card">
